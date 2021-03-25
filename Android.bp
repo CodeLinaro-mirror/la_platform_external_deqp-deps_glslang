@@ -50,6 +50,7 @@ license {
     license_text: [
         "LICENSE",
         "LICENSE.txt",
+        "license-checker.cfg",
     ],
 }
 
@@ -229,4 +230,3 @@ cc_library_static {
         "glslang/GenericCodeGen/Link.cpp",
     ],
 }
-
