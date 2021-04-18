@@ -229,4 +229,3 @@ cc_library_static {
         "glslang/GenericCodeGen/Link.cpp",
     ],
 }
-
